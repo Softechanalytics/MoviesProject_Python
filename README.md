@@ -96,11 +96,9 @@ For academic and educational use.
 
 [Data Source](https://github.com/Softechanalytics/MoviesProject_Python/tree/main/data)
 
-[Excel Data Analysis File](foundation for AIML Project1_isaacanyakwu.html)
+[Python Source code](https://github.com/Softechanalytics/MoviesProject_Python/blob/main/foundation%20for%20AIML%20Project1_isaacanyakwu.ipynb))
 
-[SQL Data Extraction](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/SQLdataExtraction.pdf)
 
-[Tabeau Presentation](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)
 
 ## 📬 Contact
 Isaac Anyakwu
