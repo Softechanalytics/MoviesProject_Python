@@ -1,5 +1,5 @@
 # 🎬 MovieLens Exploratory Data Analysis
-A data exploration project using the popular MovieLens dataset — originally compiled by the GroupLens Research Group at the University of Minnesota. 
+A data exploration project using the popular MovieLens dataset, originally compiled by the GroupLens Research Group at the University of Minnesota. 
 This project demonstrates core data wrangling, visualization, and exploratory data analysis (EDA) skills using Python.
 
 ## 📁 Project Structure
