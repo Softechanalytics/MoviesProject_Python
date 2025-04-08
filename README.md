@@ -6,6 +6,7 @@ This project demonstrates core data wrangling, visualization, and exploratory da
 bash
 Copy
 Edit
+
 ├── Data.csv                # Movie ratings data (user_id, movie_id, rating, timestamp)
 
 ├── item.csv                # Movie metadata (movie_id, title, genre flags, release date)
