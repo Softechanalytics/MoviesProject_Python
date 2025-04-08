@@ -7,9 +7,13 @@ bash
 Copy
 Edit
 ├── Data.csv                # Movie ratings data (user_id, movie_id, rating, timestamp)
+
 ├── item.csv                # Movie metadata (movie_id, title, genre flags, release date)
+
 ├── user.csv                # User demographics (user_id, age, gender, occupation, zip)
+
 ├── foundation for AIML... # Jupyter notebook with full EDA process
+
 ├── README.md               # Project summary and documentation
 
 ## 📌 Objective
@@ -87,6 +91,16 @@ Jupyter notebook "foundation for AIML Project1_isaacanyakwu.ipynb"
 ## 📚 Data Source
 Data from the GroupLens Research Project, University of Minnesota.
 For academic and educational use.
+
+## Additional Resources
+
+[Data Source](https://github.com/Softechanalytics/MoviesProject_Python/tree/main/data)
+
+[Excel Data Analysis File](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/globox_extraction_masterschoolProject.xlsx)
+
+[SQL Data Extraction](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/SQLdataExtraction.pdf)
+
+[Tabeau Presentation](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)
 
 ## 📬 Contact
 Isaac Anyakwu
