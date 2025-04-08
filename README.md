@@ -97,7 +97,9 @@ For academic and educational use.
 
 [Data Source](https://github.com/Softechanalytics/MoviesProject_Python/tree/main/data)
 
-[Python Source code](https://github.com/Softechanalytics/MoviesProject_Python/blob/main/foundation%20for%20AIML%20Project1_isaacanyakwu.html)
+[Python Source code](https://github.com/Softechanalytics/MoviesProject_Python/blob/main/foundation%20for%20AIML%20Project1_isaacanyakwu.ipynb)
+
+
 
 
 
